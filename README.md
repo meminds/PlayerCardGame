@@ -1,5 +1,5 @@
 # PlayerCardGame
-### School Project (School Project)
+### School Project
 
 With this project, it is aimed to understand the object-oriented programming structure and to provide a solution.
 
